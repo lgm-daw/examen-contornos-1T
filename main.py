@@ -1,1 +1,1 @@
-print("Fase inicial del Prpyecto")
+print("Fase inicial del proyecto.")
