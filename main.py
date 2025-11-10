@@ -1,2 +1,1 @@
-print("Fase inicial del proyecto.")
-print("Desarrollado en Materia")
+print("Fase inicial del Prpyecto")
